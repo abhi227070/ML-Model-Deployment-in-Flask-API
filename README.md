@@ -43,7 +43,7 @@ To access the API:
 - Ensure data is sent in the correct format for accurate predictions.
 
 ## API Link
-The deployed project is accessible via the following API link: [API Link](link-to-api)
+The deployed project is accessible via the following API link: [API Link](https://diabetes-prediction-api.onrender.com)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
