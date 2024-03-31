@@ -1,4 +1,4 @@
-# Diabetes Prediction using Flask API
+# ML Model Deployment in Flask API
 
 This project is a simple classification machine learning project aimed at predicting whether a person suffers from diabetes based on parameters such as blood sugar level, BMI, and blood pressure. However, the primary goal of this project is to create a Flask REST API, allowing access to the machine learning algorithm from any backend system.
 
